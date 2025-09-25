@@ -233,6 +233,8 @@ It highlights how **data-driven decision-making** can reveal patterns in the fil
 https://screenrec.com/share/BWOPsl2moI
  *screen recording with sql  queries verification below
  https://screenrec.com/share/Osn5KEfyVl
+
+Note: to see my movies sales.pbit(i.e power bi dashboard click on the file and clisk on view raw it get downloaded then after you can watch it from there the working dashboard in your system
  
 
 ## 👨‍💻 Author
